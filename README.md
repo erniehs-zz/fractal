@@ -1,2 +1,3 @@
 # fractal
-fractal stuff
+
+fractal stuff, landscaping... multiple dimensions.... type stuff...
